@@ -2,7 +2,7 @@
 #Setup
 - [X] Create Readme.md
 - [X] Create projectroadmap.md
-- [] Establish the project and core functionality.
+- [X] Establish the project and core functionality.
 - [] Create project folder and install tools.
 - [] Input sale info, calculate totals, generate PDF invoices.
 
