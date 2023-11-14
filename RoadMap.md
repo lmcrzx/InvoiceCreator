@@ -3,7 +3,7 @@
 - [X] Create Readme.md
 - [X] Create projectroadmap.md
 - [X] Establish the project and core functionality.
-- [] Create project folder and install tools.
+- [X] Create project folder and install tools.
 - [] Input sale info, calculate totals, generate PDF invoices.
 
 #Customization and Testing
