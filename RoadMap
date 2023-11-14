@@ -1,7 +1,14 @@
-- [X] Join KSU-IS github
-[X] Find other files to use as a guide for our own
-[X] Find a program that resembles the idea/or attempt to make one from scratch
-[X] Establish ReadMe and Roadmap
-[X] evaluate code and correct errors
-[X] Continue to make changes if needed to the code
-[X] Turn in
+# Invoice Creator
+#Setup
+- [X] Establish the project and core functionality.
+- [X] Create project folder and install tools.
+- [X] Input sale info, calculate totals, generate PDF invoices.
+
+#Customization and Testing
+- [X] Allow simple template changes and support different currencies.
+- [X] Thoroughly test and fix any issues.
+
+#Final
+- [X] Write a basic guide and document key details.
+- [X] Perform final checks and prepare for release.
+- [X] Release and turn in.
